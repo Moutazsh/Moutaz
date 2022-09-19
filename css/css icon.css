@@ -1,0 +1,13 @@
+body{
+     background-color: red;
+}
+
+div{
+     background-color: blue;      
+     border-radius: 30px;
+     height: 150px;
+}
+
+b{
+     font-size: 100px;
+}

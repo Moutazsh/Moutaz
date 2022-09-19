@@ -1,0 +1,44 @@
+ body{
+      background-color: red;
+ }
+ 
+ div{
+      height: 500px;
+      border-radius: 30px;
+      background-image: url(r1.jpg);
+      background-size: cover;
+ }
+
+ #q1{
+      width: 300px;
+      height: 100px;
+      border-radius: 30px;
+      font-size: 40px;
+      position: relative;
+      transition:0.5s;
+ }
+
+ #q1:hover{
+      transform: translatey(-50px);
+      width: 400px;
+      height: 200px;
+      background-color: blue;
+      color: white;
+ }
+
+ #q2{
+      width: 300px;
+      height: 100px;
+      border-radius: 30px;
+      font-size: 40px;
+      position: relative;
+      transition:0.5s;
+ }
+
+ #q2:hover{
+      transform: translatey(-50px);
+      width: 400px;
+       height: 200px;
+      background-color: blue;
+      color: white;
+ }
